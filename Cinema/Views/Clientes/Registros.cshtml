@@ -1,0 +1,29 @@
+﻿@model Cinema.Models.Clientes
+@{
+    ViewBag.Title = "Registros";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br /><br />
+<table class="table">
+    <thead>
+        <tr scope="col">
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Edad</th>
+            <th>Número de teléfono</th>
+            <th>DUI</th>
+            <th>Dirección</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Id</td>
+            <td>@Model.Nombre</td>
+            <td>@Model.Edad</td>
+            <td>@Model.NumeroDeTelefono</td>
+            <td>@Model.DUI</td>
+            <td>@Model.Direccion</td>
+        </tr>
+    </tbody>
+</table>
+
