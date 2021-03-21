@@ -1,0 +1,303 @@
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\csc.exe
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\System.Collections.Immutable.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\vbc.exe
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe.config
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Cinema.dll.config
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Cinema.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Cinema.pdb
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Antlr3.Runtime.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\EntityFramework.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\EntityFramework.SqlServer.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AI.Agent.Intercept.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.ApplicationInsights.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Core.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Owin.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.Cookies.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.Facebook.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.Google.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.OAuth.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.Twitter.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Web.Infrastructure.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Newtonsoft.Json.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Owin.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.Helpers.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.Mvc.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.Optimization.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.Razor.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.WebPages.Deployment.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.WebPages.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.WebPages.Razor.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\WebGrease.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.ApplicationInsights.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.Helpers.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.Mvc.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.Optimization.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.Razor.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.WebPages.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.WebPages.Deployment.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\System.Web.WebPages.Razor.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Antlr3.Runtime.pdb
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Newtonsoft.Json.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\EntityFramework.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\EntityFramework.SqlServer.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Core.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Owin.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.Facebook.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.Cookies.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.OAuth.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.Google.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.Twitter.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\System.Web.Helpers.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\System.Web.Mvc.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\System.Web.Optimization.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\System.Web.Razor.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\System.Web.WebPages.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\System.Web.WebPages.Deployment.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\System.Web.WebPages.Razor.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\EntityFramework.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\EntityFramework.SqlServer.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\Microsoft.Owin.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\Microsoft.Owin.Security.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Google.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\obj\Debug\Cinema.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\obj\Debug\Cinema.pdb
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\ApplicationInsights.config
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AI.DependencyCollector.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AI.PerfCounterCollector.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AI.Web.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AI.WindowsServer.dll
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AI.DependencyCollector.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AI.Web.xml
+R:\Users\JCMCH\Desktop\Ejercicios\Cinema\Cinema\bin\Microsoft.AI.WindowsServer.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\ApplicationInsights.config
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\csc.exe
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\System.Collections.Immutable.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\vbc.exe
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe.config
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Cinema.dll.config
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Cinema.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Cinema.pdb
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Antlr3.Runtime.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\EntityFramework.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\EntityFramework.SqlServer.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AI.Agent.Intercept.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AI.DependencyCollector.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AI.PerfCounterCollector.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AI.Web.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AI.WindowsServer.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.ApplicationInsights.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Core.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Owin.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.Cookies.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.Facebook.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.Google.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.OAuth.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.Twitter.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Web.Infrastructure.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Newtonsoft.Json.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Owin.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.Helpers.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.Mvc.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.Optimization.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.Razor.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Deployment.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.WebPages.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Razor.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\WebGrease.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AI.DependencyCollector.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AI.Web.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AI.WindowsServer.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.ApplicationInsights.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.Helpers.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.Mvc.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.Optimization.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.Razor.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.WebPages.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Deployment.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Razor.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Antlr3.Runtime.pdb
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Newtonsoft.Json.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\EntityFramework.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\EntityFramework.SqlServer.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Core.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Owin.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.Facebook.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.Cookies.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.OAuth.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.Google.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.Twitter.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\System.Web.Helpers.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\System.Web.Mvc.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\System.Web.Optimization.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\System.Web.Razor.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\System.Web.WebPages.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\System.Web.WebPages.Deployment.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\System.Web.WebPages.Razor.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\EntityFramework.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\EntityFramework.SqlServer.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\Microsoft.Owin.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\Microsoft.Owin.Security.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Google.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\obj\Debug\Cinema.dll
+R:\Users\JCMCH\Desktop\Cinema\Cinema\Cinema\obj\Debug\Cinema.pdb
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\ApplicationInsights.config
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\csc.exe
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\System.Collections.Immutable.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\vbc.exe
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe.config
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Cinema.dll.config
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Cinema.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Cinema.pdb
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Antlr3.Runtime.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\EntityFramework.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\EntityFramework.SqlServer.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AI.Agent.Intercept.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AI.DependencyCollector.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AI.PerfCounterCollector.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AI.Web.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AI.WindowsServer.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.ApplicationInsights.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Core.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Owin.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.Cookies.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.Facebook.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.Google.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.OAuth.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.Twitter.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Web.Infrastructure.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Newtonsoft.Json.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Owin.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.Helpers.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.Mvc.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.Optimization.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.Razor.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.WebPages.Deployment.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.WebPages.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.WebPages.Razor.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\WebGrease.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AI.DependencyCollector.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AI.Web.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AI.WindowsServer.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.ApplicationInsights.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.Helpers.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.Mvc.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.Optimization.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.Razor.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.WebPages.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.WebPages.Deployment.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\System.Web.WebPages.Razor.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Antlr3.Runtime.pdb
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Newtonsoft.Json.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\EntityFramework.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\EntityFramework.SqlServer.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Core.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AspNet.Identity.Owin.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.Facebook.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.Cookies.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.OAuth.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.Google.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.Twitter.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\System.Web.Helpers.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\System.Web.Mvc.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\System.Web.Optimization.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\System.Web.Razor.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\System.Web.WebPages.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\System.Web.WebPages.Deployment.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\System.Web.WebPages.Razor.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\EntityFramework.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\EntityFramework.SqlServer.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\Microsoft.Owin.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\Microsoft.Owin.Security.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Google.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\obj\Debug\Cinema.dll
+R:\Users\JCMCH\Desktop\Cinema GUIA 3\Cinema\Cinema\obj\Debug\Cinema.pdb
