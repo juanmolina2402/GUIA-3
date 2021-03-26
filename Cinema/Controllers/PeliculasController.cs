@@ -49,18 +49,25 @@ namespace Cinema.Controllers
 
 
 
-        ///////////////////////////EJERCICIO GUIA 3 //////////////////////////////////////////////////////////////////////////////
-        // GET: Peliculas/PorOrden
-        public ActionResult PorOrden(Int32 opc=0)
+        /////////////////////////////////////////EJERCICIO GUIA 3 //////////////////////////////////////////////////////////////////////////////
+        // GET: Peliculas/Indice
+        public ActionResult Indice()
         {
-            List<Pelicula> listaPelicula = new List<Pelicula>()
+            return View();
+        }
+  
+        public ActionResult ResultadoBusqueda(Int32 Opc = 0, String Anio="", String Mes="")
+        {
+            List<Pelicula> listaOrdenada = null;
+            List <Pelicula> listaPelicula = new List<Pelicula>()
             {
                 new Pelicula()
                 {
                     Id = 1,
                     Nombre = "Rapidos y furiosos",
-                    Genero = "Accion",
+                    Genero = "Acción",
                     AnioDeLanzamiento = "2001",
+                    Mes = "01",
                     Clasificacion = "+11"
                 },
 
@@ -68,8 +75,9 @@ namespace Cinema.Controllers
                 {
                     Id = 2,
                     Nombre = "El rey león",
-                    Genero = "Animacion",
+                    Genero = "Animación",
                     AnioDeLanzamiento = "2000",
+                    Mes = "02",
                     Clasificacion = "Todo público"
                 },
 
@@ -79,6 +87,7 @@ namespace Cinema.Controllers
                     Nombre = "Los Vengadores",
                     Genero = "Ciencia ficción",
                     AnioDeLanzamiento = "2012",
+                    Mes = "03",
                     Clasificacion = "Todo público"
                 },
 
@@ -88,20 +97,33 @@ namespace Cinema.Controllers
                     Nombre = "La liga de la justicia",
                     Genero = "Ciencia ficción",
                     AnioDeLanzamiento = "2021",
+                    Mes = "04",
                     Clasificacion = "Todo público"
                 },
             };
             
-            if(opc == 0)
+            switch (Opc)
             {
-                return View(listaPelicula);
+                case 1:
+                    listaOrdenada = listaPelicula.OrderBy(pNombre => pNombre.Nombre).ToList();
+                    break;
+                case 2:
+                    listaOrdenada = listaPelicula.Where(pFecha => pFecha.AnioDeLanzamiento == Anio && pFecha.Mes == Mes).ToList();
+                    break;
+                case 3:
+                    listaOrdenada = listaPelicula.Where(pGenero => pGenero.Genero == "Acción").ToList();
+                    break;
+                case 4:
+                    listaOrdenada = listaPelicula.Where(pGenero => pGenero.Genero == "Animación").ToList();
+                    break;
+                case 5:
+                    listaOrdenada = listaPelicula.Where(pGenero => pGenero.Genero == "Ciencia ficción").ToList();
+                    break;
+                default:
+                    listaOrdenada = listaPelicula;
+                    break;              
             }
-            else { 
-                List<Pelicula> listaOrdenadaNombre = listaPelicula.OrderBy(pNombre => pNombre.Nombre).ToList();
-                return View(listaOrdenadaNombre);
-            }
-
+            return View(listaOrdenada);
         }
-
     }
 }

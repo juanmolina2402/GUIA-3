@@ -11,6 +11,7 @@ namespace Cinema.Models
         public String Nombre { get; set; }
         public String Genero { get; set; }
         public String AnioDeLanzamiento { get; set; }
+        public String Mes { get; set; }
         public String Clasificacion { get; set; }
     }
 }
